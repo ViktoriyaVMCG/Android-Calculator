@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="minus">-</string>
+    <string name="mult">*</string>
+    <string name="dev">/</string>
+    <string name="plus">+</string>
+    <string name="c">C</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="equal">=</string>
+    <string name="empty" />
+</resources>
